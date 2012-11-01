@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = BubblyMailPreferences;
+	cell = PSLinkCell;
+	detail = BubblyMailPreferencesListController;
+	icon = BubblyMailPreferences.png;
+	isController = 1;
+	label = BubblyMailPreferences;
+    };
+}

@@ -1,0 +1,10 @@
+Package: com.ia.bubblymail
+Name: BubblyMail
+Depends: mobilesubstrate
+Version: 0.0.1-49
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Evan Lucas
+Author: Evan Lucas
+Section: Tweaks
+Installed-Size: 108
